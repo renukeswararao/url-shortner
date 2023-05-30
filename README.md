@@ -1,2 +1,1 @@
-# url-shortner
-we can shorten websites by using this code
+# link-shortner
